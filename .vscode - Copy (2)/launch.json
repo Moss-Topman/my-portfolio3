@@ -1,0 +1,2 @@
+"debug": "NODE_OPTIONS='--inspect' next dev",
+"debug-windows": "set NODE_OPTIONS=--inspect && next dev"
